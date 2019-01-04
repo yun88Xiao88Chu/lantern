@@ -5,9 +5,9 @@
 
 已破解版本：https://raw.githubusercontent.com/ntkernel/file/master/lantern.7z
 
-附上手机版4.7.9：https://raw.githubusercontent.com/ntkernel/file/master/lantern4.7.9.apk
+>附上手机版4.7.9：https://raw.githubusercontent.com/ntkernel/file/master/lantern4.7.9.apk
 
-手机版来自 https://github.com/lanternpro/about/
+>手机版来自 https://github.com/lanternpro/about/
 
 注意！解压之后新建一个叫".lantern.exe.new"的文件，记得第一个点"."，然后把修改权限拒绝掉，就可以防止更新了。#
 

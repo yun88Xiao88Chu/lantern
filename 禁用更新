@@ -1,0 +1,7 @@
+1.新建一个叫“.lantern.exe.new”的文件
+
+2.属性->安全->编辑->添加->高级->立即查找->找到everyone->拒绝“完全控制”
+
+3.效果图：
+
+![效果](http://raw.githubusercontent.com/ntkernel/lantern/1.png)

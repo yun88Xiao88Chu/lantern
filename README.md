@@ -1,4 +1,5 @@
 # lantern
+## 连不上的我也没办法，也不关我事，可能是蓝灯服务器被封了，我有时候也连不上，可以试试改DNS：114.114.114.114 如果有人有办法，发issus告诉大家，我也想知道，谢谢。
 蓝灯破解
 
 想自己研究的可以去原版破解地址：https://github.com/JuncoJet/unlimited-landeng-for-win

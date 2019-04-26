@@ -25,6 +25,6 @@
 **--LLT：我上传的所有文件和教程仅供学习和交流，请不要用于商业或违法用途。谢谢！**
 
 
-##友情链接
+## 友情链接
 
 [windows激活](https://github.com/ntkernel/windows-activate)

@@ -1,6 +1,7 @@
 # lantern+shadowsocks
+---
 ## 最近蓝灯不好用，放几个ss的配置文件：ss.txt，不能用了发issus告诉我更新 。
-
+---
 蓝灯破解
 
 完整的学习教程：[地址](https://github.com/ntkernel/lantern/blob/master/学习教程.md)，
@@ -24,7 +25,7 @@
 
 **--LLT：我上传的所有文件和教程仅供学习和交流，请不要用于商业或违法用途。谢谢！**
 
-
+---
 ## 友情链接
 
 [windows激活](https://github.com/ntkernel/windows-activate)

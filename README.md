@@ -1,6 +1,6 @@
-# lantern
-## 2019/04/19:手机版可以，电脑不知道，广州。有连上的可以发个issus看看。
-## 连不上的我也没办法，可能是蓝灯服务器被封了，我有时候也连不上，可以试试改DNS：114.114.114.114 如果有人有办法，发issus告诉大家，我也想知道，谢谢。
+# lantern+shadowsocks
+##最近蓝灯不好用，放几个ss的配置文件：./ss.txt 。
+
 蓝灯破解
 
 完整的学习教程：[地址](https://github.com/ntkernel/lantern/blob/master/学习教程.md)，

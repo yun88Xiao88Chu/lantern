@@ -1,0 +1,11 @@
+来不及整理，有一两个重复，很乱，不要介意。
+
+{"server":"45.58.148.130","server_port":62686,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/no_bat shadowsocks.conf                                            <
+{"server":"217.182.196.216","server_port":53696,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/noat shadowsocks.conf                                            <
+{"server":"51.89.50.162","server_port":50010,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/no_baat shadowsocks.conf                                            <
+{"server":"51.89.171.165","server_port":26980,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/no_bat shadowsocks.conf                                            <
+{"server":"217.182.196.216","server_port":34716,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/noat shadowsocks.conf                                            <
+{"server":"217.182.196.216","server_port":34716,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/noat shadowsocks.conf                                            <
+{"server":"45.58.148.2","server_port":39024,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/no_bacat shadowsocks.conf                                            <
+{"server":"51.89.171.165","server_port":26980,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/no_bat shadowsocks.conf                                            <
+{"server":"51.89.50.162","server_port":51319,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xfjsq/no_baat shadowsocks.conf                     

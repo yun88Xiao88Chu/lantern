@@ -1,4 +1,4 @@
-# lantern+shadowsocks
+# Lantern + Shadowsocks配置文件
 ---
 ## 最近蓝灯不好用，放几个ss的配置文件：ss.txt，不能用了发issus告诉我更新 。
 ---

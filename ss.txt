@@ -1,5 +1,20 @@
 来不及整理，有一两个重复，很乱，不要介意。
-
+考完中考了，来一堆
+server":"45.58.148.194","server_port":24411,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com..at shadowsocks.conf                                       <
+{"server":"51.91.47.160","server_port":43523,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.. shadowsocks.conf                                       <
+{"server":"45.58.148.194","server_port":23231,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com. shadowsocks.conf                                       <
+{"server":"170.178.179.136","server_port":62156,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com. shadowsocks.conf                                       <
+{"server":"45.58.148.2","server_port":39024,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com. shadowsocks.conf                                       <
+{"server":"45.58.148.194","server_port":14625,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com. shadowsocks.conf                                       <
+{"server":"51.89.49.218","server_port":49011,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.n shadowsocks.conf                                       <
+{"server":"51.91.47.160","server_port":43523,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.netshadowsocks.conf                                       <
+{"server":"45.58.146.67","server_port":47815,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.n shadowsocks.conf                                       <
+{"server":"51.89.50.144","server_port":51315,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.n shadowsocks.conf                                       <
+{"server":"51.89.52.112","server_port":12309,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.n shadowsocks.conf                                       <
+{"server":"45.58.146.67","server_port":47815,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.neshadowsocks.conf                                       <
+{"server":"51.89.50.144","server_port":41467,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.  
+{"server":"51.89.50.144","server_port":41467,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.n shadowsocks.conf                                       <
+{"server":"45.58.148.130","server_port":54276,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.ne shadowsocks.conf                                       <
 {"server":"45.58.148.130","server_port":62686,"password":"4XVeP1","method":"aes-256-cfb"}-Q:/data/data/com../no_bat shadowsocks.conf                                            <
 {"server":"217.182.196.216","server_port":53696,"password":"4XVeP1","method":"aes-256-cfb"}-Q:/data/data/com./noat shadowsocks.conf                                            <
 {"server":"51.89.50.162","server_port":50010,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com./no_baat shadowsocks.conf                                            <

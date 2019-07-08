@@ -1,5 +1,4 @@
 来不及整理，有一两个重复，很乱，不要介意。
-考完中考了，来一堆
 server":"45.58.148.194","server_port":24411,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com..at shadowsocks.conf                                       <
 {"server":"51.91.47.160","server_port":43523,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.. shadowsocks.conf                                       <
 {"server":"45.58.148.194","server_port":23231,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com. shadowsocks.conf                                       <

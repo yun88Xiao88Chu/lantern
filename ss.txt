@@ -1,0 +1,24 @@
+                                   <
+{"server":"45.58.148.130","server_port":54276,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com. shadowsocks.conf                                       <
+{"server":"45.58.148.130","server_port":54276,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/comt shadowsocks.conf                                       <
+{"server":"51.89.52.240","server_port":12312,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.t shadowsocks.conf                                       <
+{"server":"51.89.41.108","server_port":49911,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/cot shadowsocks.conf                                       <
+{"server":"51.89.41.149","server_port":11221,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.t shadowsocks.conf                                       <
+{"server":"51.89.20.197","server_port":11009,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/t shadowsocks.conf                                       <
+{"server":"51.89.41.108","server_port":51941,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/c shadowsocks.conf                                       <
+{"server":"195.154.83.23","server_port":21546,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/dat shadowsocks.conf                                       <
+{"server":"51.89.41.156","server_port":33125,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/datt shadowsocks.conf                                       <
+{"server":"51.89.41.156","server_port":22134,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/cot shadowsocks.conf                                       <
+{"server":"51.89.41.156","server_port":33125,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/dataat shadowsocks.conf                                       <
+{"server":"51.89.41.109","server_port":35681,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/dataat shadowsocks.conf                                       <
+{"server":"51.89.41.148","server_port":47891,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/com.network.xat shadowsocks.conf                                       <
+{"server":"51.89.41.149","server_port":33211,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/dataat shadowsocks.conf                                       <
+{"server":"51.89.41.150","server_port":55011,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/datt shadowsocks.conf                                       <
+{"server":"51.89.52.192","server_port":19522,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/t shadowsocks.conf                                       <
+{"server":"195.154.83.23","server_port":25376,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/dat shadowsocks.conf                                       <
+{"server":"51.77.64.91","server_port":13433,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/dat shadowsocks.conf                                       <
+{"server":"51.89.52.113","server_port":44612,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/t shadowsocks.conf                                       <
+{"server":"51.89.41.108","server_port":49911,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/daat shadowsocks.conf                                       <
+{"server":"51.89.49.219","server_port":46123,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/datt shadowsocks.conf                                       <
+{"server":"51.89.49.219","server_port":46123,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/datt shadowsocks.conf                                       <
+{"server":"51.89.50.145","server_port":43544,"password":"4XVeP1","method":"aes-256-cfb"}HWAUM-Q:/data/data/c

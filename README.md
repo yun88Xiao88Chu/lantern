@@ -1,7 +1,6 @@
 # Lantern + Shadowsocks配置文件
 ---
-## 最近蓝灯不好用，放几个ss的配置文件：[ss.txt](./ss.txt)，不能用了发issus告诉我更新 。
-## 这段时间ss好像全部没了，如果恢复了，我下周更新，听说22号之后会恢复，我到时候可以了就发出来。
+## ss都没了，[改ovpn](ovpn/ay_openvpn_config_20160407.ovpn)
 ---
 蓝灯破解
 

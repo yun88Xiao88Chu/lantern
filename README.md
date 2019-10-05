@@ -1,6 +1,6 @@
 # Lantern + Shadowsocks配置文件
 ---
-## ss都没了，[改ovpn](ovpn/ay_openvpn_config_20160407.ovpn)
+## ss都没了，[改V2Ray了vmess.txt](vmess.txt)
 ---
 蓝灯破解
 

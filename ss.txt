@@ -1,9 +1,1 @@
-服务器都不是我搭的，都是转载的，我不标明地址，如果侵权，告诉我删掉，有重复别介意。                                 <
-{"server":"183.232.55.226","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
-{"server":"183.240.23.226","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
-{"server":"183.232.55.231","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
-{"server":"183.232.55.226","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
-{"server":"183.240.23.226","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
-{"server":"183.232.55.231","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
-{"server":"183.232.55.231","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
-{"server":"183.232.55.231","server_port":443,"password":"aig7Heegh8eeyiep","method":"aes-256-cfb","username":"wx1570166015446","uid":"6044540","mac":"64:BC:0C:80:4C:C4","token":"b33f1bcb7c1e1f47bec534597e45f86a","i":"A"}
+

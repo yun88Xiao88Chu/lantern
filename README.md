@@ -2,7 +2,7 @@
 ---
 ## lantern,ss都没了，[改V2Ray了vmess.txt](vmess.txt)
 ---
-蓝灯破解
+蓝灯破解（已经废了）
 
 完整的学习教程：[地址](https://github.com/ntkernel/lantern/blob/master/学习教程.md)，
 想自己研究的可以去原版破解地址：https://github.com/JuncoJet/unlimited-landeng-for-win

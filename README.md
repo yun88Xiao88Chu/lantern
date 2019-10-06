@@ -1,4 +1,4 @@
-# Lantern + Shadowsocks + V2Ray配置文件
+# Shadowsocks + V2Ray配置文件
 ---
 ## lantern,ss都没了，[改V2Ray了vmess.txt](vmess.txt)
 ---

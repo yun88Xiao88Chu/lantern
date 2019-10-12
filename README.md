@@ -1,6 +1,6 @@
 # Shadowsocks + V2Ray配置文件
 ---
-## lantern,ss都没了，[改V2Ray了vmess.txt](vmess.txt)
+## lantern,ss都没了，[改V2Ray了vmess.txt](vmess.txt) 10月12号可用，深圳阿里云测试过
 ---
 蓝灯破解（已经废了）
 

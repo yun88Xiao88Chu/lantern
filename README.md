@@ -1,6 +1,6 @@
 # Shadowsocks + V2Ray配置文件
 ---
-## lantern,ss都没了，[改V2Ray了vmess.txt](vmess.txt) 10月12号可用，深圳阿里云测试过
+## 最新更新（速度比之前的快，2019/11/03): [VMESS](vmess.txt)
 ---
 蓝灯破解（已经废了）
 

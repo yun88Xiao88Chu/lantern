@@ -2,6 +2,7 @@
 ---
 ## 最新更新（20/2/17可用): [VMESS](vmess.txt)
 ---
+项目已经由蓝灯的破解转到V2Ray配置，有的人说下面的手机版还可以用，所以我不删掉，建议用上面的vmess
 蓝灯破解（已经废了）
 
 完整的学习教程：[地址](https://github.com/ntkernel/lantern/blob/master/学习教程.md)，

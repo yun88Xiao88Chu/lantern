@@ -1,6 +1,6 @@
 # Shadowsocks + V2Ray配置文件
 ---
-## 最新更新（20/2/17): [VMESS](vmess.txt)
+## 最新更新（20/2/17可用): [VMESS](vmess.txt)
 ---
 蓝灯破解（已经废了）
 

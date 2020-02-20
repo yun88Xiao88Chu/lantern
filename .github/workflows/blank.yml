@@ -19,4 +19,4 @@ jobs:
         sudo whoami
         uname -a
         sudo ifconfig
-        sudo traceroute google.com
+
